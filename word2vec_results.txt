@@ -1,0 +1,496 @@
+=== lemmatized_model_cbow_window2_dim100 Sonuçları ===
+
+Cümle 1 (Skor: 1.0000, İndeks: 0):
+ÇEŞME AYASARANDA MEVKİİNDE FULL DENİZ MANZARALI OLUP ÖNÜ KAPANMAZ MUHTEŞEM SAKIZ ADASI MANZARALI 2+1 , 1+1 BAHÇELİ VE TERASLI DAİRELERDEN OLUŞAN PROJEDE KAPALI OTOPARK SPOR SALONU 7/24 GÜVENLİK AKILLI VE KONTROL MAKENİZMALI EV KONTROL SİSTEMİ VE  SONSUZLUK HAVUZU SİZLERİ BEKLİYOR.
+
+Cümle 2 (Skor: 0.9957, İndeks: 7215):
+DAİREMİZ 3+1 FUL EŞYALI OLUP KONYAALTI ARAPSUYUNUN EN HARKA SİTESİDİR SİTEMİZDE GÜVENLİK KAMERA SİSTEMLERİ APARTMAN GÖREVLİLERİ YÜZME HAVUZU KAPALI OTOPARK JENARATÖR DİNLENME ALANLARI KEMERYA VE EN ÖNEMLİSİ HARİKA BİR İŞÇİLİK MODERN YAPI MALZEMELERİ ISI SES YALITIMI EŞYALI OLAN DAİRELERİMİZ KOMFORLU BİRİNCİ SINIF MOBİLYA VE BEYAZ EŞYALARI ILEDE SİZİ CEZB EDECEK ATRINTILAR İÇİN ARAYINIZNOT DAİREMİZ HAVUZ CEPELİDİR
+
+Cümle 3 (Skor: 0.9952, İndeks: 6925):
+Genel güvenlik kapısı ile girilen sitemizde, her villanın giriş kapısına iç yollar ve yürüyüş yolları ile ulaşılır.
+
+Cümle 4 (Skor: 0.9951, İndeks: 4908):
+KATEBEVEYN BANYOİKİ ADET ORTAK KULLANIM BANYOYEMEK ODASIİÇ ve DIŞ KİLERÇAMAŞIR ODASIGİYİNME ODASIMUTFAKTA 5'li ANKASTRE SETİYERALTI OTOPARK (3 ARAÇ)MİSAFİR OTOPARKSİTE GİRİŞİ GÜVENLİK ve KONTROLLÜ GEÇİŞAKILLI EV OTOMASYONLARIÇOCUK OYUN ALANLARIGENİŞ PEYZAJ ALANISPOR ALANIİKLİMLENDİRME ALT YAPISIELEKTRİKLİ ARAÇ ŞARJ İSTASYONUMerkezi lokasyona sahip olan Projemiz;Konya'nın en değerli bölgesi Meram'da konumlanmış Nish Meram, sahip olduğu lokasyonla hayatı yanı başınızda tutacak proje.
+
+Cümle 5 (Skor: 0.9947, İndeks: 6626):
+ORTAK MAHALLER :
+Su Deposu : Site genelinde ortak bahçe alanlarının sulanmasını ve tüm blokların ihtiyacını karşılayacak, uygun kapasitede su depoları tesis edilecektir.Hidrofor : WİLO VEYA MUADİLİ marka hidrofor kullanılacaktır.
+
+
+=== lemmatized_model_cbow_window2_dim300 Sonuçları ===
+
+Cümle 1 (Skor: 1.0000, İndeks: 0):
+ÇEŞME AYASARANDA MEVKİİNDE FULL DENİZ MANZARALI OLUP ÖNÜ KAPANMAZ MUHTEŞEM SAKIZ ADASI MANZARALI 2+1 , 1+1 BAHÇELİ VE TERASLI DAİRELERDEN OLUŞAN PROJEDE KAPALI OTOPARK SPOR SALONU 7/24 GÜVENLİK AKILLI VE KONTROL MAKENİZMALI EV KONTROL SİSTEMİ VE  SONSUZLUK HAVUZU SİZLERİ BEKLİYOR.
+
+Cümle 2 (Skor: 0.9975, İndeks: 289):
+URLA KEKLİKTEPE MEVKİİNDE
+
+5306 M2 İMARLI ARSA İÇERİSİNDE KONUMLANDIRILMIŞ
+
+MUHTEŞEM DENİZ MANZARASINA HAKİM KONUMDA
+
+İÇERİSİNDE ASIRLIK ZEYTİN VE ÇAM AĞAÇLARINI BARINDIRAN VE HARİKA BİR PEYZAJA SAHİP
+
+400 M2 KULLANIM ALANINA SAHİP 6 ODA 1 SALON ANA MALİKANE
+
+100 M2 HAVUZ BAŞI 1 ODA 1 SALON TEK KATLI VİLLA
+
+80 M2 MÜŞTEMİLAT EVİ
+
+120 M2 BÜYÜKLÜĞÜNDE HAVUZ
+
+KAPALI PROFESYONEL SERA
+
+Cümle 3 (Skor: 0.9974, İndeks: 6925):
+Genel güvenlik kapısı ile girilen sitemizde, her villanın giriş kapısına iç yollar ve yürüyüş yolları ile ulaşılır.
+
+Cümle 4 (Skor: 0.9969, İndeks: 6626):
+ORTAK MAHALLER :
+Su Deposu : Site genelinde ortak bahçe alanlarının sulanmasını ve tüm blokların ihtiyacını karşılayacak, uygun kapasitede su depoları tesis edilecektir.Hidrofor : WİLO VEYA MUADİLİ marka hidrofor kullanılacaktır.
+
+Cümle 5 (Skor: 0.9967, İndeks: 6939):
+Satılık lüks dairemiz Antalya Manavgat Ilıca Spring 2 sitesinde olup sitenin en güzel konumunda doğrudan havuz manzaralıdır
+
+Portföyümüz 2+1 açık mutfaklı,ebeveyn banyolu ve 3 adet geniş balkonlu olup eşyalı olarak satılıktır
+
+Sitemizin sosyal olanakları oldukça fazladır
+
+Açık kapalı ve çocuk havuzu dahil üç adet havuzu mevcuttur
+Ayrıca sauna spor salonu ve kafeteryası vardır
+
+Satılık dairemizin hemen yanından siteye giriş yapabilirsiniz
+
+Mesafe;
+
+Sitemiz Denize 4 km
+Antik Side’ye 8 km
+Manavgat’a 8 km
+Antalya’ya 60 km
+Alanya’ya 55 km mesafededir
+
+
+=== lemmatized_model_cbow_window4_dim100 Sonuçları ===
+
+Cümle 1 (Skor: 1.0000, İndeks: 0):
+ÇEŞME AYASARANDA MEVKİİNDE FULL DENİZ MANZARALI OLUP ÖNÜ KAPANMAZ MUHTEŞEM SAKIZ ADASI MANZARALI 2+1 , 1+1 BAHÇELİ VE TERASLI DAİRELERDEN OLUŞAN PROJEDE KAPALI OTOPARK SPOR SALONU 7/24 GÜVENLİK AKILLI VE KONTROL MAKENİZMALI EV KONTROL SİSTEMİ VE  SONSUZLUK HAVUZU SİZLERİ BEKLİYOR.
+
+Cümle 2 (Skor: 0.9963, İndeks: 7215):
+DAİREMİZ 3+1 FUL EŞYALI OLUP KONYAALTI ARAPSUYUNUN EN HARKA SİTESİDİR SİTEMİZDE GÜVENLİK KAMERA SİSTEMLERİ APARTMAN GÖREVLİLERİ YÜZME HAVUZU KAPALI OTOPARK JENARATÖR DİNLENME ALANLARI KEMERYA VE EN ÖNEMLİSİ HARİKA BİR İŞÇİLİK MODERN YAPI MALZEMELERİ ISI SES YALITIMI EŞYALI OLAN DAİRELERİMİZ KOMFORLU BİRİNCİ SINIF MOBİLYA VE BEYAZ EŞYALARI ILEDE SİZİ CEZB EDECEK ATRINTILAR İÇİN ARAYINIZNOT DAİREMİZ HAVUZ CEPELİDİR
+
+Cümle 3 (Skor: 0.9960, İndeks: 6626):
+ORTAK MAHALLER :
+Su Deposu : Site genelinde ortak bahçe alanlarının sulanmasını ve tüm blokların ihtiyacını karşılayacak, uygun kapasitede su depoları tesis edilecektir.Hidrofor : WİLO VEYA MUADİLİ marka hidrofor kullanılacaktır.
+
+Cümle 4 (Skor: 0.9945, İndeks: 2822):
+YILDIZLININ EN GÖZDE SİTESİ STAR KONUTLARINDA EN FIRSAT DAİREYİ SATİYORUZ...DAİREMİZ HEM DENİZ HEM ŞEHİR HEM DOĞA MANZARALI OLUP 3+1 DİR...GİYİNME ODASI, KİLERİ VE DEVASA ODA BÜYÜKLÜĞÜNDE BALKONUYLA KEYFE DEĞER BİR DAİREDİR... KAPALI AÇIK OTOPARKLAR ,KAMELYALAR, AÇIK YÜZME HAVUZU VE 24 SAAT GÜVENLİKLİ BİR KOMPLEKS ŞEKLİNDE TASARLANMIŞTIR...
+
+Cümle 5 (Skor: 0.9938, İndeks: 5590):
+Hakkında
+2+1 
+Açık Salon Mutfak 
+Bakımlı ve Kondisyonu Yerinde 
+Tadilat Geçirmiş Yenilenmiş Dairedir
+Açık Deniz Manzarası 
+Açık Otopark 
+Klima Isıtma 
+Merkezden Çok Uzak Olmayan Konumu
+Site İçerisinde ki Manzarası ve Tadilat Geçirmiş Durumuyla En Güzel Dairedir.
+
+
+=== lemmatized_model_cbow_window4_dim300 Sonuçları ===
+
+Cümle 1 (Skor: 1.0000, İndeks: 0):
+ÇEŞME AYASARANDA MEVKİİNDE FULL DENİZ MANZARALI OLUP ÖNÜ KAPANMAZ MUHTEŞEM SAKIZ ADASI MANZARALI 2+1 , 1+1 BAHÇELİ VE TERASLI DAİRELERDEN OLUŞAN PROJEDE KAPALI OTOPARK SPOR SALONU 7/24 GÜVENLİK AKILLI VE KONTROL MAKENİZMALI EV KONTROL SİSTEMİ VE  SONSUZLUK HAVUZU SİZLERİ BEKLİYOR.
+
+Cümle 2 (Skor: 0.9973, İndeks: 6626):
+ORTAK MAHALLER :
+Su Deposu : Site genelinde ortak bahçe alanlarının sulanmasını ve tüm blokların ihtiyacını karşılayacak, uygun kapasitede su depoları tesis edilecektir.Hidrofor : WİLO VEYA MUADİLİ marka hidrofor kullanılacaktır.
+
+Cümle 3 (Skor: 0.9961, İndeks: 7215):
+DAİREMİZ 3+1 FUL EŞYALI OLUP KONYAALTI ARAPSUYUNUN EN HARKA SİTESİDİR SİTEMİZDE GÜVENLİK KAMERA SİSTEMLERİ APARTMAN GÖREVLİLERİ YÜZME HAVUZU KAPALI OTOPARK JENARATÖR DİNLENME ALANLARI KEMERYA VE EN ÖNEMLİSİ HARİKA BİR İŞÇİLİK MODERN YAPI MALZEMELERİ ISI SES YALITIMI EŞYALI OLAN DAİRELERİMİZ KOMFORLU BİRİNCİ SINIF MOBİLYA VE BEYAZ EŞYALARI ILEDE SİZİ CEZB EDECEK ATRINTILAR İÇİN ARAYINIZNOT DAİREMİZ HAVUZ CEPELİDİR
+
+Cümle 4 (Skor: 0.9957, İndeks: 289):
+URLA KEKLİKTEPE MEVKİİNDE
+
+5306 M2 İMARLI ARSA İÇERİSİNDE KONUMLANDIRILMIŞ
+
+MUHTEŞEM DENİZ MANZARASINA HAKİM KONUMDA
+
+İÇERİSİNDE ASIRLIK ZEYTİN VE ÇAM AĞAÇLARINI BARINDIRAN VE HARİKA BİR PEYZAJA SAHİP
+
+400 M2 KULLANIM ALANINA SAHİP 6 ODA 1 SALON ANA MALİKANE
+
+100 M2 HAVUZ BAŞI 1 ODA 1 SALON TEK KATLI VİLLA
+
+80 M2 MÜŞTEMİLAT EVİ
+
+120 M2 BÜYÜKLÜĞÜNDE HAVUZ
+
+KAPALI PROFESYONEL SERA
+
+Cümle 5 (Skor: 0.9955, İndeks: 2822):
+YILDIZLININ EN GÖZDE SİTESİ STAR KONUTLARINDA EN FIRSAT DAİREYİ SATİYORUZ...DAİREMİZ HEM DENİZ HEM ŞEHİR HEM DOĞA MANZARALI OLUP 3+1 DİR...GİYİNME ODASI, KİLERİ VE DEVASA ODA BÜYÜKLÜĞÜNDE BALKONUYLA KEYFE DEĞER BİR DAİREDİR... KAPALI AÇIK OTOPARKLAR ,KAMELYALAR, AÇIK YÜZME HAVUZU VE 24 SAAT GÜVENLİKLİ BİR KOMPLEKS ŞEKLİNDE TASARLANMIŞTIR...
+
+
+=== lemmatized_model_skipgram_window2_dim100 Sonuçları ===
+
+Cümle 1 (Skor: 1.0000, İndeks: 0):
+ÇEŞME AYASARANDA MEVKİİNDE FULL DENİZ MANZARALI OLUP ÖNÜ KAPANMAZ MUHTEŞEM SAKIZ ADASI MANZARALI 2+1 , 1+1 BAHÇELİ VE TERASLI DAİRELERDEN OLUŞAN PROJEDE KAPALI OTOPARK SPOR SALONU 7/24 GÜVENLİK AKILLI VE KONTROL MAKENİZMALI EV KONTROL SİSTEMİ VE  SONSUZLUK HAVUZU SİZLERİ BEKLİYOR.
+
+Cümle 2 (Skor: 0.9880, İndeks: 6939):
+Satılık lüks dairemiz Antalya Manavgat Ilıca Spring 2 sitesinde olup sitenin en güzel konumunda doğrudan havuz manzaralıdır
+
+Portföyümüz 2+1 açık mutfaklı,ebeveyn banyolu ve 3 adet geniş balkonlu olup eşyalı olarak satılıktır
+
+Sitemizin sosyal olanakları oldukça fazladır
+
+Açık kapalı ve çocuk havuzu dahil üç adet havuzu mevcuttur
+Ayrıca sauna spor salonu ve kafeteryası vardır
+
+Satılık dairemizin hemen yanından siteye giriş yapabilirsiniz
+
+Mesafe;
+
+Sitemiz Denize 4 km
+Antik Side’ye 8 km
+Manavgat’a 8 km
+Antalya’ya 60 km
+Alanya’ya 55 km mesafededir
+
+Cümle 3 (Skor: 0.9856, İndeks: 6111):
+SAYGIN​ Emlak-İnşaat-Proje, Danışmanlık 
+ ÖZELLİKLER: 
+   Yahşi Plajlar Bölgesi  400 M2 KArsa Paylı, Kendine ait arsa içinde  Tam Bağımsız Villa  Müstakil Havuz  Havuz Isıtma Sistemi  Müstakil Bahçeli  Deniz Manzarası  Açık Otopark  Güvenli Yeni Sitede  Denize Yakın  Otomatik Bahçe Sulama Sistemi  Peyzajlı ve Çeşitli Meyve Ağaçları olan bahçe  Bahçede Kamelya  Eşyalı  Yerden ısıtma sitemi  VRF İklimlendirme  4 Oda 1 Açık mutfak salonlu  Odalardan 1 i Müştemilat gibi kullanılabilir  4 Banyolu  Kaliteli İnşaat  Sıfır Ayarında 3 Yıllık Bina  Sıfır, İskanlı ve Kat Mülkiyetli Tapu Devri  Hemen Oturmaya Uygun  
+ DETAYLI BİLGİ VE VİLLAYI GÖRMEK İÇİN; ARAYIN RANDEVU ALINIZ.
+
+Cümle 4 (Skor: 0.9852, İndeks: 2822):
+YILDIZLININ EN GÖZDE SİTESİ STAR KONUTLARINDA EN FIRSAT DAİREYİ SATİYORUZ...DAİREMİZ HEM DENİZ HEM ŞEHİR HEM DOĞA MANZARALI OLUP 3+1 DİR...GİYİNME ODASI, KİLERİ VE DEVASA ODA BÜYÜKLÜĞÜNDE BALKONUYLA KEYFE DEĞER BİR DAİREDİR... KAPALI AÇIK OTOPARKLAR ,KAMELYALAR, AÇIK YÜZME HAVUZU VE 24 SAAT GÜVENLİKLİ BİR KOMPLEKS ŞEKLİNDE TASARLANMIŞTIR...
+
+Cümle 5 (Skor: 0.9833, İndeks: 4908):
+KATEBEVEYN BANYOİKİ ADET ORTAK KULLANIM BANYOYEMEK ODASIİÇ ve DIŞ KİLERÇAMAŞIR ODASIGİYİNME ODASIMUTFAKTA 5'li ANKASTRE SETİYERALTI OTOPARK (3 ARAÇ)MİSAFİR OTOPARKSİTE GİRİŞİ GÜVENLİK ve KONTROLLÜ GEÇİŞAKILLI EV OTOMASYONLARIÇOCUK OYUN ALANLARIGENİŞ PEYZAJ ALANISPOR ALANIİKLİMLENDİRME ALT YAPISIELEKTRİKLİ ARAÇ ŞARJ İSTASYONUMerkezi lokasyona sahip olan Projemiz;Konya'nın en değerli bölgesi Meram'da konumlanmış Nish Meram, sahip olduğu lokasyonla hayatı yanı başınızda tutacak proje.
+
+
+=== lemmatized_model_skipgram_window2_dim300 Sonuçları ===
+
+Cümle 1 (Skor: 1.0000, İndeks: 0):
+ÇEŞME AYASARANDA MEVKİİNDE FULL DENİZ MANZARALI OLUP ÖNÜ KAPANMAZ MUHTEŞEM SAKIZ ADASI MANZARALI 2+1 , 1+1 BAHÇELİ VE TERASLI DAİRELERDEN OLUŞAN PROJEDE KAPALI OTOPARK SPOR SALONU 7/24 GÜVENLİK AKILLI VE KONTROL MAKENİZMALI EV KONTROL SİSTEMİ VE  SONSUZLUK HAVUZU SİZLERİ BEKLİYOR.
+
+Cümle 2 (Skor: 0.9906, İndeks: 6939):
+Satılık lüks dairemiz Antalya Manavgat Ilıca Spring 2 sitesinde olup sitenin en güzel konumunda doğrudan havuz manzaralıdır
+
+Portföyümüz 2+1 açık mutfaklı,ebeveyn banyolu ve 3 adet geniş balkonlu olup eşyalı olarak satılıktır
+
+Sitemizin sosyal olanakları oldukça fazladır
+
+Açık kapalı ve çocuk havuzu dahil üç adet havuzu mevcuttur
+Ayrıca sauna spor salonu ve kafeteryası vardır
+
+Satılık dairemizin hemen yanından siteye giriş yapabilirsiniz
+
+Mesafe;
+
+Sitemiz Denize 4 km
+Antik Side’ye 8 km
+Manavgat’a 8 km
+Antalya’ya 60 km
+Alanya’ya 55 km mesafededir
+
+Cümle 3 (Skor: 0.9905, İndeks: 2822):
+YILDIZLININ EN GÖZDE SİTESİ STAR KONUTLARINDA EN FIRSAT DAİREYİ SATİYORUZ...DAİREMİZ HEM DENİZ HEM ŞEHİR HEM DOĞA MANZARALI OLUP 3+1 DİR...GİYİNME ODASI, KİLERİ VE DEVASA ODA BÜYÜKLÜĞÜNDE BALKONUYLA KEYFE DEĞER BİR DAİREDİR... KAPALI AÇIK OTOPARKLAR ,KAMELYALAR, AÇIK YÜZME HAVUZU VE 24 SAAT GÜVENLİKLİ BİR KOMPLEKS ŞEKLİNDE TASARLANMIŞTIR...
+
+Cümle 4 (Skor: 0.9876, İndeks: 4127):
+Çankaya Konakları Sitesinde bulunmaktadır.✓Sitemiz 1200 m2 alan üzerine kurulu olup doğa ile iç içe dolmuş güzergahında 600 m2 inşaat alanı ve 600 m2 ise yeşil alandan olusan iki blokludur .Sitemizde hem kapalı otopark hem de açık otopark vardır.Ön bahçe peyzaj düzenlenmesi yapılmış ve kamelya yapılacaktır .
+
+Cümle 5 (Skor: 0.9867, İndeks: 2451):
+YALINCAK MAHALLESİ KONUMUNDA BULUNMAKTADIR.ÖNÜ KESİLMEZ DENİZ MANZARALIDIR.YENİ YAPIM SIFIR DAİREDİRÇEVRE DÜZENLEMELERİ DEVAM ETMEKTEDİR.SPOR SALONU , YÜZME HAVUZLU , KAPALI OTOPARKLI, ASANSÖR VB.
+
+
+=== lemmatized_model_skipgram_window4_dim100 Sonuçları ===
+
+Cümle 1 (Skor: 1.0000, İndeks: 0):
+ÇEŞME AYASARANDA MEVKİİNDE FULL DENİZ MANZARALI OLUP ÖNÜ KAPANMAZ MUHTEŞEM SAKIZ ADASI MANZARALI 2+1 , 1+1 BAHÇELİ VE TERASLI DAİRELERDEN OLUŞAN PROJEDE KAPALI OTOPARK SPOR SALONU 7/24 GÜVENLİK AKILLI VE KONTROL MAKENİZMALI EV KONTROL SİSTEMİ VE  SONSUZLUK HAVUZU SİZLERİ BEKLİYOR.
+
+Cümle 2 (Skor: 0.9822, İndeks: 2822):
+YILDIZLININ EN GÖZDE SİTESİ STAR KONUTLARINDA EN FIRSAT DAİREYİ SATİYORUZ...DAİREMİZ HEM DENİZ HEM ŞEHİR HEM DOĞA MANZARALI OLUP 3+1 DİR...GİYİNME ODASI, KİLERİ VE DEVASA ODA BÜYÜKLÜĞÜNDE BALKONUYLA KEYFE DEĞER BİR DAİREDİR... KAPALI AÇIK OTOPARKLAR ,KAMELYALAR, AÇIK YÜZME HAVUZU VE 24 SAAT GÜVENLİKLİ BİR KOMPLEKS ŞEKLİNDE TASARLANMIŞTIR...
+
+Cümle 3 (Skor: 0.9821, İndeks: 4127):
+Çankaya Konakları Sitesinde bulunmaktadır.✓Sitemiz 1200 m2 alan üzerine kurulu olup doğa ile iç içe dolmuş güzergahında 600 m2 inşaat alanı ve 600 m2 ise yeşil alandan olusan iki blokludur .Sitemizde hem kapalı otopark hem de açık otopark vardır.Ön bahçe peyzaj düzenlenmesi yapılmış ve kamelya yapılacaktır .
+
+Cümle 4 (Skor: 0.9819, İndeks: 6939):
+Satılık lüks dairemiz Antalya Manavgat Ilıca Spring 2 sitesinde olup sitenin en güzel konumunda doğrudan havuz manzaralıdır
+
+Portföyümüz 2+1 açık mutfaklı,ebeveyn banyolu ve 3 adet geniş balkonlu olup eşyalı olarak satılıktır
+
+Sitemizin sosyal olanakları oldukça fazladır
+
+Açık kapalı ve çocuk havuzu dahil üç adet havuzu mevcuttur
+Ayrıca sauna spor salonu ve kafeteryası vardır
+
+Satılık dairemizin hemen yanından siteye giriş yapabilirsiniz
+
+Mesafe;
+
+Sitemiz Denize 4 km
+Antik Side’ye 8 km
+Manavgat’a 8 km
+Antalya’ya 60 km
+Alanya’ya 55 km mesafededir
+
+Cümle 5 (Skor: 0.9808, İndeks: 6111):
+SAYGIN​ Emlak-İnşaat-Proje, Danışmanlık 
+ ÖZELLİKLER: 
+   Yahşi Plajlar Bölgesi  400 M2 KArsa Paylı, Kendine ait arsa içinde  Tam Bağımsız Villa  Müstakil Havuz  Havuz Isıtma Sistemi  Müstakil Bahçeli  Deniz Manzarası  Açık Otopark  Güvenli Yeni Sitede  Denize Yakın  Otomatik Bahçe Sulama Sistemi  Peyzajlı ve Çeşitli Meyve Ağaçları olan bahçe  Bahçede Kamelya  Eşyalı  Yerden ısıtma sitemi  VRF İklimlendirme  4 Oda 1 Açık mutfak salonlu  Odalardan 1 i Müştemilat gibi kullanılabilir  4 Banyolu  Kaliteli İnşaat  Sıfır Ayarında 3 Yıllık Bina  Sıfır, İskanlı ve Kat Mülkiyetli Tapu Devri  Hemen Oturmaya Uygun  
+ DETAYLI BİLGİ VE VİLLAYI GÖRMEK İÇİN; ARAYIN RANDEVU ALINIZ.
+
+
+=== lemmatized_model_skipgram_window4_dim300 Sonuçları ===
+
+Cümle 1 (Skor: 1.0000, İndeks: 0):
+ÇEŞME AYASARANDA MEVKİİNDE FULL DENİZ MANZARALI OLUP ÖNÜ KAPANMAZ MUHTEŞEM SAKIZ ADASI MANZARALI 2+1 , 1+1 BAHÇELİ VE TERASLI DAİRELERDEN OLUŞAN PROJEDE KAPALI OTOPARK SPOR SALONU 7/24 GÜVENLİK AKILLI VE KONTROL MAKENİZMALI EV KONTROL SİSTEMİ VE  SONSUZLUK HAVUZU SİZLERİ BEKLİYOR.
+
+Cümle 2 (Skor: 0.9858, İndeks: 6939):
+Satılık lüks dairemiz Antalya Manavgat Ilıca Spring 2 sitesinde olup sitenin en güzel konumunda doğrudan havuz manzaralıdır
+
+Portföyümüz 2+1 açık mutfaklı,ebeveyn banyolu ve 3 adet geniş balkonlu olup eşyalı olarak satılıktır
+
+Sitemizin sosyal olanakları oldukça fazladır
+
+Açık kapalı ve çocuk havuzu dahil üç adet havuzu mevcuttur
+Ayrıca sauna spor salonu ve kafeteryası vardır
+
+Satılık dairemizin hemen yanından siteye giriş yapabilirsiniz
+
+Mesafe;
+
+Sitemiz Denize 4 km
+Antik Side’ye 8 km
+Manavgat’a 8 km
+Antalya’ya 60 km
+Alanya’ya 55 km mesafededir
+
+Cümle 3 (Skor: 0.9855, İndeks: 4127):
+Çankaya Konakları Sitesinde bulunmaktadır.✓Sitemiz 1200 m2 alan üzerine kurulu olup doğa ile iç içe dolmuş güzergahında 600 m2 inşaat alanı ve 600 m2 ise yeşil alandan olusan iki blokludur .Sitemizde hem kapalı otopark hem de açık otopark vardır.Ön bahçe peyzaj düzenlenmesi yapılmış ve kamelya yapılacaktır .
+
+Cümle 4 (Skor: 0.9847, İndeks: 6628):
+Jeneratör : Tüm sitedeki ortak alan ve daireleri besleyecek tam güçte,450 KVA kapasitede AKSA jeneratör konumlandıracaktır.
+
+Cümle 5 (Skor: 0.9843, İndeks: 2822):
+YILDIZLININ EN GÖZDE SİTESİ STAR KONUTLARINDA EN FIRSAT DAİREYİ SATİYORUZ...DAİREMİZ HEM DENİZ HEM ŞEHİR HEM DOĞA MANZARALI OLUP 3+1 DİR...GİYİNME ODASI, KİLERİ VE DEVASA ODA BÜYÜKLÜĞÜNDE BALKONUYLA KEYFE DEĞER BİR DAİREDİR... KAPALI AÇIK OTOPARKLAR ,KAMELYALAR, AÇIK YÜZME HAVUZU VE 24 SAAT GÜVENLİKLİ BİR KOMPLEKS ŞEKLİNDE TASARLANMIŞTIR...
+
+
+=== stemmed_model_cbow_window2_dim100 Sonuçları ===
+
+Cümle 1 (Skor: 1.0000, İndeks: 0):
+ÇEŞME AYASARANDA MEVKİİNDE FULL DENİZ MANZARALI OLUP ÖNÜ KAPANMAZ MUHTEŞEM SAKIZ ADASI MANZARALI 2+1 , 1+1 BAHÇELİ VE TERASLI DAİRELERDEN OLUŞAN PROJEDE KAPALI OTOPARK SPOR SALONU 7/24 GÜVENLİK AKILLI VE KONTROL MAKENİZMALI EV KONTROL SİSTEMİ VE  SONSUZLUK HAVUZU SİZLERİ BEKLİYOR.
+
+Cümle 2 (Skor: 0.9990, İndeks: 2822):
+YILDIZLININ EN GÖZDE SİTESİ STAR KONUTLARINDA EN FIRSAT DAİREYİ SATİYORUZ...DAİREMİZ HEM DENİZ HEM ŞEHİR HEM DOĞA MANZARALI OLUP 3+1 DİR...GİYİNME ODASI, KİLERİ VE DEVASA ODA BÜYÜKLÜĞÜNDE BALKONUYLA KEYFE DEĞER BİR DAİREDİR... KAPALI AÇIK OTOPARKLAR ,KAMELYALAR, AÇIK YÜZME HAVUZU VE 24 SAAT GÜVENLİKLİ BİR KOMPLEKS ŞEKLİNDE TASARLANMIŞTIR...
+
+Cümle 3 (Skor: 0.9986, İndeks: 5590):
+Hakkında
+2+1 
+Açık Salon Mutfak 
+Bakımlı ve Kondisyonu Yerinde 
+Tadilat Geçirmiş Yenilenmiş Dairedir
+Açık Deniz Manzarası 
+Açık Otopark 
+Klima Isıtma 
+Merkezden Çok Uzak Olmayan Konumu
+Site İçerisinde ki Manzarası ve Tadilat Geçirmiş Durumuyla En Güzel Dairedir.
+
+Cümle 4 (Skor: 0.9980, İndeks: 7242):
+Kepez Varsak'ta Menderes Mahallesi tramvaya 200 metre Adalya Koleji yanında genişletilmeleri yapılmış panjurlu açık otopark oldukça geniş bir bahçesi mevcut site içinde daire
+
+Cümle 5 (Skor: 0.9980, İndeks: 373):
+ÜZERİ ESKİ BUCA SGK BİNASI ARKASI ÖNÜ FULL AÇIK MANZARALI FERAH KÖŞE DAİRE ÇAM AĞAÇLARI KARŞISINDAUÇAN YOL - ÇEVRE YOLU - OTOBAN - HEYKEL MEYDANI - DOKUZ ÇEŞMELER MEYDANI - ŞİRİNYER - CAFELER SOKAĞI - ÜNİVERSİTE VE SOSYAL İHTİYAÇLARA CEVAP VEREN TÜM ALT YAPIYA SAHİP HARİKE BİR LOKASYONDA BULUNMAKTADIR.DAİREMİZ 2 ODA AÇIK MUTFAK SALON - BALKON BİNAYA AİT BAHÇE OTOPARK - ASANSÖR - YERDEN ISITMA 5 YAŞINI BİTİRMİŞTİR.
+
+
+=== stemmed_model_cbow_window2_dim300 Sonuçları ===
+
+Cümle 1 (Skor: 1.0000, İndeks: 0):
+ÇEŞME AYASARANDA MEVKİİNDE FULL DENİZ MANZARALI OLUP ÖNÜ KAPANMAZ MUHTEŞEM SAKIZ ADASI MANZARALI 2+1 , 1+1 BAHÇELİ VE TERASLI DAİRELERDEN OLUŞAN PROJEDE KAPALI OTOPARK SPOR SALONU 7/24 GÜVENLİK AKILLI VE KONTROL MAKENİZMALI EV KONTROL SİSTEMİ VE  SONSUZLUK HAVUZU SİZLERİ BEKLİYOR.
+
+Cümle 2 (Skor: 0.9991, İndeks: 2822):
+YILDIZLININ EN GÖZDE SİTESİ STAR KONUTLARINDA EN FIRSAT DAİREYİ SATİYORUZ...DAİREMİZ HEM DENİZ HEM ŞEHİR HEM DOĞA MANZARALI OLUP 3+1 DİR...GİYİNME ODASI, KİLERİ VE DEVASA ODA BÜYÜKLÜĞÜNDE BALKONUYLA KEYFE DEĞER BİR DAİREDİR... KAPALI AÇIK OTOPARKLAR ,KAMELYALAR, AÇIK YÜZME HAVUZU VE 24 SAAT GÜVENLİKLİ BİR KOMPLEKS ŞEKLİNDE TASARLANMIŞTIR...
+
+Cümle 3 (Skor: 0.9988, İndeks: 373):
+ÜZERİ ESKİ BUCA SGK BİNASI ARKASI ÖNÜ FULL AÇIK MANZARALI FERAH KÖŞE DAİRE ÇAM AĞAÇLARI KARŞISINDAUÇAN YOL - ÇEVRE YOLU - OTOBAN - HEYKEL MEYDANI - DOKUZ ÇEŞMELER MEYDANI - ŞİRİNYER - CAFELER SOKAĞI - ÜNİVERSİTE VE SOSYAL İHTİYAÇLARA CEVAP VEREN TÜM ALT YAPIYA SAHİP HARİKE BİR LOKASYONDA BULUNMAKTADIR.DAİREMİZ 2 ODA AÇIK MUTFAK SALON - BALKON BİNAYA AİT BAHÇE OTOPARK - ASANSÖR - YERDEN ISITMA 5 YAŞINI BİTİRMİŞTİR.
+
+Cümle 4 (Skor: 0.9988, İndeks: 5590):
+Hakkında
+2+1 
+Açık Salon Mutfak 
+Bakımlı ve Kondisyonu Yerinde 
+Tadilat Geçirmiş Yenilenmiş Dairedir
+Açık Deniz Manzarası 
+Açık Otopark 
+Klima Isıtma 
+Merkezden Çok Uzak Olmayan Konumu
+Site İçerisinde ki Manzarası ve Tadilat Geçirmiş Durumuyla En Güzel Dairedir.
+
+Cümle 5 (Skor: 0.9985, İndeks: 5985):
+6
+M2 bahçe içinde meyve
+Ağaçları vardır.
+
+
+=== stemmed_model_cbow_window4_dim100 Sonuçları ===
+
+Cümle 1 (Skor: 1.0000, İndeks: 0):
+ÇEŞME AYASARANDA MEVKİİNDE FULL DENİZ MANZARALI OLUP ÖNÜ KAPANMAZ MUHTEŞEM SAKIZ ADASI MANZARALI 2+1 , 1+1 BAHÇELİ VE TERASLI DAİRELERDEN OLUŞAN PROJEDE KAPALI OTOPARK SPOR SALONU 7/24 GÜVENLİK AKILLI VE KONTROL MAKENİZMALI EV KONTROL SİSTEMİ VE  SONSUZLUK HAVUZU SİZLERİ BEKLİYOR.
+
+Cümle 2 (Skor: 0.9993, İndeks: 2822):
+YILDIZLININ EN GÖZDE SİTESİ STAR KONUTLARINDA EN FIRSAT DAİREYİ SATİYORUZ...DAİREMİZ HEM DENİZ HEM ŞEHİR HEM DOĞA MANZARALI OLUP 3+1 DİR...GİYİNME ODASI, KİLERİ VE DEVASA ODA BÜYÜKLÜĞÜNDE BALKONUYLA KEYFE DEĞER BİR DAİREDİR... KAPALI AÇIK OTOPARKLAR ,KAMELYALAR, AÇIK YÜZME HAVUZU VE 24 SAAT GÜVENLİKLİ BİR KOMPLEKS ŞEKLİNDE TASARLANMIŞTIR...
+
+Cümle 3 (Skor: 0.9983, İndeks: 373):
+ÜZERİ ESKİ BUCA SGK BİNASI ARKASI ÖNÜ FULL AÇIK MANZARALI FERAH KÖŞE DAİRE ÇAM AĞAÇLARI KARŞISINDAUÇAN YOL - ÇEVRE YOLU - OTOBAN - HEYKEL MEYDANI - DOKUZ ÇEŞMELER MEYDANI - ŞİRİNYER - CAFELER SOKAĞI - ÜNİVERSİTE VE SOSYAL İHTİYAÇLARA CEVAP VEREN TÜM ALT YAPIYA SAHİP HARİKE BİR LOKASYONDA BULUNMAKTADIR.DAİREMİZ 2 ODA AÇIK MUTFAK SALON - BALKON BİNAYA AİT BAHÇE OTOPARK - ASANSÖR - YERDEN ISITMA 5 YAŞINI BİTİRMİŞTİR.
+
+Cümle 4 (Skor: 0.9981, İndeks: 5590):
+Hakkında
+2+1 
+Açık Salon Mutfak 
+Bakımlı ve Kondisyonu Yerinde 
+Tadilat Geçirmiş Yenilenmiş Dairedir
+Açık Deniz Manzarası 
+Açık Otopark 
+Klima Isıtma 
+Merkezden Çok Uzak Olmayan Konumu
+Site İçerisinde ki Manzarası ve Tadilat Geçirmiş Durumuyla En Güzel Dairedir.
+
+Cümle 5 (Skor: 0.9977, İndeks: 5916):
+​Gündoğan - Küçükbük Deniz Manzaralı Küçükbük Sahile Yürüme Mesafesinde4+1 Tam Müstakil VİllaButik Site İçinde435 m2 Arsa Payı İçinde Özel Bahçe - Özel Havuz200 m2 Brüt - 180 m2 NetGiriş Katı Açık Mutfak SalonYatak Odası1 Ortak Banyo Wc2.
+
+
+=== stemmed_model_cbow_window4_dim300 Sonuçları ===
+
+Cümle 1 (Skor: 1.0000, İndeks: 0):
+ÇEŞME AYASARANDA MEVKİİNDE FULL DENİZ MANZARALI OLUP ÖNÜ KAPANMAZ MUHTEŞEM SAKIZ ADASI MANZARALI 2+1 , 1+1 BAHÇELİ VE TERASLI DAİRELERDEN OLUŞAN PROJEDE KAPALI OTOPARK SPOR SALONU 7/24 GÜVENLİK AKILLI VE KONTROL MAKENİZMALI EV KONTROL SİSTEMİ VE  SONSUZLUK HAVUZU SİZLERİ BEKLİYOR.
+
+Cümle 2 (Skor: 0.9993, İndeks: 2822):
+YILDIZLININ EN GÖZDE SİTESİ STAR KONUTLARINDA EN FIRSAT DAİREYİ SATİYORUZ...DAİREMİZ HEM DENİZ HEM ŞEHİR HEM DOĞA MANZARALI OLUP 3+1 DİR...GİYİNME ODASI, KİLERİ VE DEVASA ODA BÜYÜKLÜĞÜNDE BALKONUYLA KEYFE DEĞER BİR DAİREDİR... KAPALI AÇIK OTOPARKLAR ,KAMELYALAR, AÇIK YÜZME HAVUZU VE 24 SAAT GÜVENLİKLİ BİR KOMPLEKS ŞEKLİNDE TASARLANMIŞTIR...
+
+Cümle 3 (Skor: 0.9989, İndeks: 373):
+ÜZERİ ESKİ BUCA SGK BİNASI ARKASI ÖNÜ FULL AÇIK MANZARALI FERAH KÖŞE DAİRE ÇAM AĞAÇLARI KARŞISINDAUÇAN YOL - ÇEVRE YOLU - OTOBAN - HEYKEL MEYDANI - DOKUZ ÇEŞMELER MEYDANI - ŞİRİNYER - CAFELER SOKAĞI - ÜNİVERSİTE VE SOSYAL İHTİYAÇLARA CEVAP VEREN TÜM ALT YAPIYA SAHİP HARİKE BİR LOKASYONDA BULUNMAKTADIR.DAİREMİZ 2 ODA AÇIK MUTFAK SALON - BALKON BİNAYA AİT BAHÇE OTOPARK - ASANSÖR - YERDEN ISITMA 5 YAŞINI BİTİRMİŞTİR.
+
+Cümle 4 (Skor: 0.9987, İndeks: 5590):
+Hakkında
+2+1 
+Açık Salon Mutfak 
+Bakımlı ve Kondisyonu Yerinde 
+Tadilat Geçirmiş Yenilenmiş Dairedir
+Açık Deniz Manzarası 
+Açık Otopark 
+Klima Isıtma 
+Merkezden Çok Uzak Olmayan Konumu
+Site İçerisinde ki Manzarası ve Tadilat Geçirmiş Durumuyla En Güzel Dairedir.
+
+Cümle 5 (Skor: 0.9986, İndeks: 5916):
+​Gündoğan - Küçükbük Deniz Manzaralı Küçükbük Sahile Yürüme Mesafesinde4+1 Tam Müstakil VİllaButik Site İçinde435 m2 Arsa Payı İçinde Özel Bahçe - Özel Havuz200 m2 Brüt - 180 m2 NetGiriş Katı Açık Mutfak SalonYatak Odası1 Ortak Banyo Wc2.
+
+
+=== stemmed_model_skipgram_window2_dim100 Sonuçları ===
+
+Cümle 1 (Skor: 1.0000, İndeks: 0):
+ÇEŞME AYASARANDA MEVKİİNDE FULL DENİZ MANZARALI OLUP ÖNÜ KAPANMAZ MUHTEŞEM SAKIZ ADASI MANZARALI 2+1 , 1+1 BAHÇELİ VE TERASLI DAİRELERDEN OLUŞAN PROJEDE KAPALI OTOPARK SPOR SALONU 7/24 GÜVENLİK AKILLI VE KONTROL MAKENİZMALI EV KONTROL SİSTEMİ VE  SONSUZLUK HAVUZU SİZLERİ BEKLİYOR.
+
+Cümle 2 (Skor: 0.9951, İndeks: 2822):
+YILDIZLININ EN GÖZDE SİTESİ STAR KONUTLARINDA EN FIRSAT DAİREYİ SATİYORUZ...DAİREMİZ HEM DENİZ HEM ŞEHİR HEM DOĞA MANZARALI OLUP 3+1 DİR...GİYİNME ODASI, KİLERİ VE DEVASA ODA BÜYÜKLÜĞÜNDE BALKONUYLA KEYFE DEĞER BİR DAİREDİR... KAPALI AÇIK OTOPARKLAR ,KAMELYALAR, AÇIK YÜZME HAVUZU VE 24 SAAT GÜVENLİKLİ BİR KOMPLEKS ŞEKLİNDE TASARLANMIŞTIR...
+
+Cümle 3 (Skor: 0.9923, İndeks: 6939):
+Satılık lüks dairemiz Antalya Manavgat Ilıca Spring 2 sitesinde olup sitenin en güzel konumunda doğrudan havuz manzaralıdır
+
+Portföyümüz 2+1 açık mutfaklı,ebeveyn banyolu ve 3 adet geniş balkonlu olup eşyalı olarak satılıktır
+
+Sitemizin sosyal olanakları oldukça fazladır
+
+Açık kapalı ve çocuk havuzu dahil üç adet havuzu mevcuttur
+Ayrıca sauna spor salonu ve kafeteryası vardır
+
+Satılık dairemizin hemen yanından siteye giriş yapabilirsiniz
+
+Mesafe;
+
+Sitemiz Denize 4 km
+Antik Side’ye 8 km
+Manavgat’a 8 km
+Antalya’ya 60 km
+Alanya’ya 55 km mesafededir
+
+Cümle 4 (Skor: 0.9919, İndeks: 4127):
+Çankaya Konakları Sitesinde bulunmaktadır.✓Sitemiz 1200 m2 alan üzerine kurulu olup doğa ile iç içe dolmuş güzergahında 600 m2 inşaat alanı ve 600 m2 ise yeşil alandan olusan iki blokludur .Sitemizde hem kapalı otopark hem de açık otopark vardır.Ön bahçe peyzaj düzenlenmesi yapılmış ve kamelya yapılacaktır .
+
+Cümle 5 (Skor: 0.9907, İndeks: 5916):
+​Gündoğan - Küçükbük Deniz Manzaralı Küçükbük Sahile Yürüme Mesafesinde4+1 Tam Müstakil VİllaButik Site İçinde435 m2 Arsa Payı İçinde Özel Bahçe - Özel Havuz200 m2 Brüt - 180 m2 NetGiriş Katı Açık Mutfak SalonYatak Odası1 Ortak Banyo Wc2.
+
+
+=== stemmed_model_skipgram_window2_dim300 Sonuçları ===
+
+Cümle 1 (Skor: 1.0000, İndeks: 0):
+ÇEŞME AYASARANDA MEVKİİNDE FULL DENİZ MANZARALI OLUP ÖNÜ KAPANMAZ MUHTEŞEM SAKIZ ADASI MANZARALI 2+1 , 1+1 BAHÇELİ VE TERASLI DAİRELERDEN OLUŞAN PROJEDE KAPALI OTOPARK SPOR SALONU 7/24 GÜVENLİK AKILLI VE KONTROL MAKENİZMALI EV KONTROL SİSTEMİ VE  SONSUZLUK HAVUZU SİZLERİ BEKLİYOR.
+
+Cümle 2 (Skor: 0.9961, İndeks: 2822):
+YILDIZLININ EN GÖZDE SİTESİ STAR KONUTLARINDA EN FIRSAT DAİREYİ SATİYORUZ...DAİREMİZ HEM DENİZ HEM ŞEHİR HEM DOĞA MANZARALI OLUP 3+1 DİR...GİYİNME ODASI, KİLERİ VE DEVASA ODA BÜYÜKLÜĞÜNDE BALKONUYLA KEYFE DEĞER BİR DAİREDİR... KAPALI AÇIK OTOPARKLAR ,KAMELYALAR, AÇIK YÜZME HAVUZU VE 24 SAAT GÜVENLİKLİ BİR KOMPLEKS ŞEKLİNDE TASARLANMIŞTIR...
+
+Cümle 3 (Skor: 0.9935, İndeks: 5916):
+​Gündoğan - Küçükbük Deniz Manzaralı Küçükbük Sahile Yürüme Mesafesinde4+1 Tam Müstakil VİllaButik Site İçinde435 m2 Arsa Payı İçinde Özel Bahçe - Özel Havuz200 m2 Brüt - 180 m2 NetGiriş Katı Açık Mutfak SalonYatak Odası1 Ortak Banyo Wc2.
+
+Cümle 4 (Skor: 0.9933, İndeks: 4127):
+Çankaya Konakları Sitesinde bulunmaktadır.✓Sitemiz 1200 m2 alan üzerine kurulu olup doğa ile iç içe dolmuş güzergahında 600 m2 inşaat alanı ve 600 m2 ise yeşil alandan olusan iki blokludur .Sitemizde hem kapalı otopark hem de açık otopark vardır.Ön bahçe peyzaj düzenlenmesi yapılmış ve kamelya yapılacaktır .
+
+Cümle 5 (Skor: 0.9924, İndeks: 7242):
+Kepez Varsak'ta Menderes Mahallesi tramvaya 200 metre Adalya Koleji yanında genişletilmeleri yapılmış panjurlu açık otopark oldukça geniş bir bahçesi mevcut site içinde daire
+
+
+=== stemmed_model_skipgram_window4_dim100 Sonuçları ===
+
+Cümle 1 (Skor: 1.0000, İndeks: 0):
+ÇEŞME AYASARANDA MEVKİİNDE FULL DENİZ MANZARALI OLUP ÖNÜ KAPANMAZ MUHTEŞEM SAKIZ ADASI MANZARALI 2+1 , 1+1 BAHÇELİ VE TERASLI DAİRELERDEN OLUŞAN PROJEDE KAPALI OTOPARK SPOR SALONU 7/24 GÜVENLİK AKILLI VE KONTROL MAKENİZMALI EV KONTROL SİSTEMİ VE  SONSUZLUK HAVUZU SİZLERİ BEKLİYOR.
+
+Cümle 2 (Skor: 0.9913, İndeks: 2822):
+YILDIZLININ EN GÖZDE SİTESİ STAR KONUTLARINDA EN FIRSAT DAİREYİ SATİYORUZ...DAİREMİZ HEM DENİZ HEM ŞEHİR HEM DOĞA MANZARALI OLUP 3+1 DİR...GİYİNME ODASI, KİLERİ VE DEVASA ODA BÜYÜKLÜĞÜNDE BALKONUYLA KEYFE DEĞER BİR DAİREDİR... KAPALI AÇIK OTOPARKLAR ,KAMELYALAR, AÇIK YÜZME HAVUZU VE 24 SAAT GÜVENLİKLİ BİR KOMPLEKS ŞEKLİNDE TASARLANMIŞTIR...
+
+Cümle 3 (Skor: 0.9874, İndeks: 2451):
+YALINCAK MAHALLESİ KONUMUNDA BULUNMAKTADIR.ÖNÜ KESİLMEZ DENİZ MANZARALIDIR.YENİ YAPIM SIFIR DAİREDİRÇEVRE DÜZENLEMELERİ DEVAM ETMEKTEDİR.SPOR SALONU , YÜZME HAVUZLU , KAPALI OTOPARKLI, ASANSÖR VB.
+
+Cümle 4 (Skor: 0.9874, İndeks: 2456):
+YALINCAK MAHALLESİ KONUMUNDA BULUNMAKTADIR.ÖNÜ KESİLMEZ DENİZ MANZARALIDIR.YENİ YAPIM SIFIR DAİREDİRÇEVRE DÜZENLEMELERİ DEVAM ETMEKTEDİR.SPOR SALONU , YÜZME HAVUZLU , KAPALI OTOPARKLI, ASANSÖR VB.
+
+Cümle 5 (Skor: 0.9870, İndeks: 6959):
+Denize yakın, Full Eşyalı , Yatay mimari, incekum plajına 800 mt, Açık havuz, çocuk havuzu,sauna,spor salonu
+
+
+=== stemmed_model_skipgram_window4_dim300 Sonuçları ===
+
+Cümle 1 (Skor: 1.0000, İndeks: 0):
+ÇEŞME AYASARANDA MEVKİİNDE FULL DENİZ MANZARALI OLUP ÖNÜ KAPANMAZ MUHTEŞEM SAKIZ ADASI MANZARALI 2+1 , 1+1 BAHÇELİ VE TERASLI DAİRELERDEN OLUŞAN PROJEDE KAPALI OTOPARK SPOR SALONU 7/24 GÜVENLİK AKILLI VE KONTROL MAKENİZMALI EV KONTROL SİSTEMİ VE  SONSUZLUK HAVUZU SİZLERİ BEKLİYOR.
+
+Cümle 2 (Skor: 0.9930, İndeks: 2822):
+YILDIZLININ EN GÖZDE SİTESİ STAR KONUTLARINDA EN FIRSAT DAİREYİ SATİYORUZ...DAİREMİZ HEM DENİZ HEM ŞEHİR HEM DOĞA MANZARALI OLUP 3+1 DİR...GİYİNME ODASI, KİLERİ VE DEVASA ODA BÜYÜKLÜĞÜNDE BALKONUYLA KEYFE DEĞER BİR DAİREDİR... KAPALI AÇIK OTOPARKLAR ,KAMELYALAR, AÇIK YÜZME HAVUZU VE 24 SAAT GÜVENLİKLİ BİR KOMPLEKS ŞEKLİNDE TASARLANMIŞTIR...
+
+Cümle 3 (Skor: 0.9879, İndeks: 4127):
+Çankaya Konakları Sitesinde bulunmaktadır.✓Sitemiz 1200 m2 alan üzerine kurulu olup doğa ile iç içe dolmuş güzergahında 600 m2 inşaat alanı ve 600 m2 ise yeşil alandan olusan iki blokludur .Sitemizde hem kapalı otopark hem de açık otopark vardır.Ön bahçe peyzaj düzenlenmesi yapılmış ve kamelya yapılacaktır .
+
+Cümle 4 (Skor: 0.9877, İndeks: 6939):
+Satılık lüks dairemiz Antalya Manavgat Ilıca Spring 2 sitesinde olup sitenin en güzel konumunda doğrudan havuz manzaralıdır
+
+Portföyümüz 2+1 açık mutfaklı,ebeveyn banyolu ve 3 adet geniş balkonlu olup eşyalı olarak satılıktır
+
+Sitemizin sosyal olanakları oldukça fazladır
+
+Açık kapalı ve çocuk havuzu dahil üç adet havuzu mevcuttur
+Ayrıca sauna spor salonu ve kafeteryası vardır
+
+Satılık dairemizin hemen yanından siteye giriş yapabilirsiniz
+
+Mesafe;
+
+Sitemiz Denize 4 km
+Antik Side’ye 8 km
+Manavgat’a 8 km
+Antalya’ya 60 km
+Alanya’ya 55 km mesafededir
+
+Cümle 5 (Skor: 0.9876, İndeks: 7242):
+Kepez Varsak'ta Menderes Mahallesi tramvaya 200 metre Adalya Koleji yanında genişletilmeleri yapılmış panjurlu açık otopark oldukça geniş bir bahçesi mevcut site içinde daire
+
+
