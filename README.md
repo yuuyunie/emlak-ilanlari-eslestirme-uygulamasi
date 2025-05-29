@@ -48,7 +48,7 @@ Aşağıdaki dosyaları repodaki ana dizine yerleştirin:
 - `tfidf_stemmed.csv`: Stem edilmiş TF-IDF matrisi
 - `*.model`: Word2Vec modelleri (örneğin, `lemmatized_model_cbow_window2_dim100.model`, toplam 16 dosya)
 
-**Not:** Model dosyaları büyük olabilir ve `.gitignore` ile dışlanmış olabilir. Bu durumda, [link] adresinden indirebilirsiniz (linki ekle).
+**Not:** Model dosyaları büyük olabilir ve `.gitignore` ile dışlanmış olabilir. Bu durumda, [[link](https://drive.google.com/drive/folders/1VP7vcKbUvLa13oqpznAvu-rakunPgTP4?usp=drive_link)] adresinden indirebilirsiniz.
 
 1. Repoyu klonlayın
 git clone https://github.com/yuuyunie/emlak-ilanlari-eslestirme-uygulamasi.git
@@ -61,33 +61,51 @@ cd emlak-ilanlari-eslestirme-uygulamasi
    ```
 5. emlak_projesi_2.ipynb dosyasını açın ve tüm hücreleri sırayla çalıştırın.
 6. Çıktılar şu dosyalarda kaydedilecektir:
-   -word2vec_results.txt: Word2Vec modellerinin benzerlik sonuçları
-   -semantic_scores.txt: Anlamsal değerlendirme puanları
-   -semantic_results_table.txt: LaTeX tablosu
-   -semantic_comments.txt: Anlamsal değerlendirme yorumları
-   -jaccard_matrix.txt: Jaccard benzerlik matrisi
-   -jaccard_comments.txt: Jaccard analizi yorumları
+   - word2vec_results.txt: Word2Vec modellerinin benzerlik sonuçları
+   - semantic_scores.txt: Anlamsal değerlendirme puanları
+   - semantic_results_table.txt: LaTeX tablosu
+   - semantic_comments.txt: Anlamsal değerlendirme yorumları
+   - jaccard_matrix.txt: Jaccard benzerlik matrisi
+   - jaccard_comments.txt: Jaccard analizi yorumları
    
-#Dosya Yapısı
--emlak_projesi_2.ipynb: Ana analiz kodları ve iş akışı
--emlakodev.csv: Ham veri seti (emlak ilanları)
--lemmatized_sentences.csv: Lemmatize edilmiş cümleler
--stemmed_sentences.csv: Stem edilmiş cümleler
--tfidf_lemmatized.csv: Lemmatize edilmiş TF-IDF matrisi
--tfidf_stemmed.csv: Stem edilmiş TF-IDF matrisi
--*.model: 16 adet Word2Vec model dosyası (örneğin, -lemmatized_model_cbow_window2_dim100.model)
--word2vec_results.txt: Benzerlik analiz sonuçları
--semantic_scores.txt: Anlamsal puanlar
--semantic_results_table.txt: Anlamsal değerlendirme tablosu (LaTeX)
--semantic_comments.txt: Anlamsal yorumlar (LaTeX)
--jaccard_matrix.txt: Jaccard matrisi (LaTeX)
--jaccard_comments.txt: Jaccard yorumları (LaTeX)
--semantic_report.docx: Detaylı analiz raporu (Word)
--semantic_report.pdf: Detaylı analiz raporu (PDF)
--trainmodel.py: Word2Vec modellerini eğitmek için yardımcı script (opsiyonel)
+# Dosya Yapısı
 
-#Rapor ve Bulgular
+- emlak_projesi_2.ipynb: Ana analiz kodları ve iş akışı
+
+- emlakodev.csv: Ham veri seti (emlak ilanları)
+
+- lemmatized_sentences.csv: Lemmatize edilmiş cümleler
+
+- stemmed_sentences.csv: Stem edilmiş cümleler
+
+- tfidf_lemmatized.csv: Lemmatize edilmiş TF-IDF matrisi
+
+- tfidf_stemmed.csv: Stem edilmiş TF-IDF matrisi
+
+- *.model: 16 adet Word2Vec model dosyası (örneğin, -lemmatized_model_cbow_window2_dim100.model)
+
+- word2vec_results.txt: Benzerlik analiz sonuçları
+
+- semantic_scores.txt: Anlamsal puanlar
+
+- semantic_results_table.txt: Anlamsal değerlendirme tablosu (LaTeX)
+
+- semantic_comments.txt: Anlamsal yorumlar (LaTeX)
+
+- jaccard_matrix.txt: Jaccard matrisi (LaTeX)
+
+- jaccard_comments.txt: Jaccard yorumları (LaTeX)
+
+- semantic_report.docx: Detaylı analiz raporu (Word)
+
+- semantic_report.pdf: Detaylı analiz raporu (PDF)
+
+- trainmodel.py: Word2Vec modellerini eğitmek için yardımcı script (opsiyonel)
+
+# Rapor ve Bulgular
+
 Analizlerin detaylı özeti semantic_report.pdf dosyasında yer alır. Rapor, yöntemleri, sonuçları (TF-IDF, Word2Vec, Jaccard analizi) ve kod açıklamalarını içerir. Dosyayı incelemek için açabilirsiniz.
 
-#Katkıda Bulunma
+# Katkıda Bulunma
+
 Proje açık kaynaktır. Katkıda bulunmak için pull request gönderin veya sorunları bildirin. Önerilere her zaman açığım!
